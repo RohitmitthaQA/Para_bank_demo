@@ -6,7 +6,6 @@ public class Revstring {
 
 	public static void main(String[] args) 
 	{
-
 		Scanner rm = new Scanner(System.in);
 		System.out.println("Enter an string :- ");
 	String str= rm.nextLine();
